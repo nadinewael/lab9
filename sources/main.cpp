@@ -2,7 +2,7 @@
 #include "salmaabdellatif.h"
 #include "hendmakram.h"
 
-void main()
+int main()
 {
 	yasminekhedr();
 	salmaabdellatif();

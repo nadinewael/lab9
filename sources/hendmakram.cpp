@@ -1,3 +1,4 @@
+#include "hendmakram.h"
 void hendmakram()
 {
 	printf("hendmakram\n");
